@@ -1,6 +1,6 @@
 # Simple Interest Calculation
 
-This repository contains a simple shell script to calculate Simple Interest.
+The repository contains a simple shell script to calculate the SI.
 
 ## Files Included
 - `simple-interest.sh`: Bash script to compute simple interest.
@@ -12,4 +12,4 @@ This repository contains a simple shell script to calculate Simple Interest.
 ```bash
 bash simple-interest.sh
 ```
-Enter principal, rate, and time when prompted to get the simple interest result.
+Enter principal, rate, and time when prompted to get the SI result.
